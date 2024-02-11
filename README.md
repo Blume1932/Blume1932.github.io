@@ -4,4 +4,4 @@ I’m currently working on a project analysing the effect of playing football ma
 
 I have other repositories with solutions to Codility's problems in Python.
 
-
+_config.yml
